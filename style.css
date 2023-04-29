@@ -1,0 +1,16 @@
+.booking-form{
+	width: 500px;
+	margin: 10px;
+}
+h4{
+	color: #ea7575;
+	line-height: 48px;
+	margin-bottom: 25px; 
+}
+.input-field>label{
+	color: #ea7575;
+}
+input{
+	border-color: #fff;
+	color:#ea7575;
+}
